@@ -1,0 +1,105 @@
+   html{
+ background-color: midnightblue; 
+        }
+
+  .perfil{
+      text-align: center;
+      position:relative;
+      border-radius: 20px;
+      padding: 100px;
+      margin: 100px;
+      background-color:darkgreen;
+      color: lightyellow;
+         }
+  .dados{
+     font-size: 1.5em;
+     font-family:fantasy;
+     text-align: left;
+     color: #2E8B57; /*SeaGreen*/
+     margin: 10px;
+     padding: 20px;
+         }
+  .hobbie{
+                 font-size: 1.5em;
+                 font-family:monospace;
+                   text-align: left;
+              color: lightslategray;
+                                        }
+  .lista1{
+    list-style: square;
+    text-align: left;
+    font-family: fantasy;
+    color: darkgray;
+    font-size: 1.2em;
+          }
+                                                    .lista1 li:nth-child(5){
+    background-color: indigo;
+    width: fit-content;
+                          }
+                                                    .shrek {
+    display: block;
+     position: relative;
+    border-radius:10px;
+     width: 600px;
+    height: auto;
+     margin:20px auto;
+            }
+                                                    .tabela{
+    margin: 20px auto;
+ display: block; }
+                                                    .napoles{
+    position: relative;
+     display: block;
+     border-radius: 10px;
+    width: 260px;
+ height: 150px;
+    margin: 10px auto;
+          }
+                                                    .dubai{
+    position: relative;
+    display: block;
+    border-radius: 10px;
+   width: 260px;
+     height: 150px;
+    margin: 10px auto;
+         }
+                                                    .islandia {
+                                                   position: relative;
+ display: block;
+    border-radius: 10px;
+    width:260px;                                  height: 150px;
+  margin: 10px auto;
+         }
+                                                                                                .turismo{
+text-align: center;
+font-size: 2.0em;
+font-family: 'Times New Roman', Times, serif;
+color: lightslategray;
+margin: 20px;
+padding-bottom:50px;
+padding-top:50px;
+      }
+                                                
+th{
+                                                                                                                color: darkgray;
+                                                                                                                  margin: 20px;
+                                                                                                                    padding: 30px;
+                                                                                                                    }
+
+                                                                                                             .best{
+                                                                                                            
+         text-align: center;
+                                                                                                                        border-radius: 5px;
+                                                                                                                          color:goldenrod;
+                                                                                                                            padding-left: 400px;
+                                                                                                                              font-size: 1.1em;
+                                                                                                                              }
+                                                                                                                              .best:hover{
+                                                                                                                              color: silver;
+                                                                                                                              text-decoration: underline;
+                                                                                                                              }
+                                                                                                                              #texto{
+                                                                                                                                font-size: 1.3em;
+                                                                                                                                  font-family:'Courier New', Courier, monospace;
+                                                                                                                                    color: darkkhaki;                                                                                                                                }
+
